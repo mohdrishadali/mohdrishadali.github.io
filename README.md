@@ -4,7 +4,9 @@ My native place is Pattambi of Palakkad District.<br>
 This blog is to share my fablab experiences.<br>
 
 #### Follow Me<br>
-<a href="https://https://www.facebook.com/Rishadalit">Facebook</a>
+[Facebook](https://https://www.facebook.com/Rishadalit/)<br>
+[Twitter](https://twitter.com/rishadalit)<br>
+[Linkedin](https://www.linkedin.com/in/rishad-ali-a755a097)<br>
 
 #### Contact Me @<br>
 +918943661415<br>
