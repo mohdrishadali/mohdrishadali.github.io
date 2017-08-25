@@ -16,7 +16,9 @@ It was created by an American professor at MIT, Neil Gershenfield.
 [Linkedin](https://www.linkedin.com/in/rishad-ali-a755a097)<br>
 
 #### Contact Me @<br>
-+918943661415<br>
-rishadalit@gmail.com<br>
+
+![WhatsApp](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/whatsapp-24.png) +918943661415<br>
+
+![Mail](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/mail-24.png)rishadalit@gmail.com<br>
 
 
