@@ -32,7 +32,6 @@ A training session was conducted for the students of the college inorder to make
 
 ### 3D PRINTER<br>
 ![3Dprinter](https://jitheeshk.github.io/mescefablab.github.io/852236424_74353[1].jpg "3Dprinter")<br>
-![test](https://github.com/favicon.ico =24x48)
  
 3D printing, also known as additive manufacturing, refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file. STL is one of the most common file types that 3D printers can read. Thus, unlike material removed from a stock in the conventional machining process, 3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file by successively adding material layer by layer.
 
@@ -45,7 +44,7 @@ The below image shows my design to 3D print a mobile stand.<br>
 
 
 * STEP 2
-<h4>Convert STL file to Gcode</h4><br>
+<h4>Convert STL file to Gcode</h4>
 This can be done using the Cura software.The design stl file is opened in Cura to generate the gcode.
 In Cura we can select the nozzle and material needed and specify the quality needed for the object ( 20%, 50%, 100% etc) depending on the strength required for the design.The Cura tell us how much time it would take to print the object.<br>
 Now click “Save to file” and generate the gcode<br>
@@ -53,11 +52,11 @@ Now click “Save to file” and generate the gcode<br>
 GCode is the generic name for a control language for CNC (or Reprap) machines. It is a way for you to tell the machine to move to various points at a desired speed, control the spindle speed, turn on and off various coolants, and all sorts of other things. It is fairly standard, and is a useful tool.<br>
 
 * STEP 3
-<h4>Feed the Gcode file to the 3D printer</h4><br>
+<h4>Feed the Gcode file to the 3D printer</h4>
 Now your Gcode file is ready to be fed to the 3D printer. Export the file to the memory card that can be inserted into the 3D printer.Then select the file from the memory card.Now 3D printer starts printing your design layer by layer.
 
 * STEP 4
-<h4>The Final Product</h4><br>
+<h4>The Final Product</h4>
 Once the printing is over, wait for the product to cooldown.Then remove it from the printer.
 
 
