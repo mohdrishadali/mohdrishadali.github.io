@@ -31,7 +31,7 @@ FabLab at MESCE, Kuttippuram is one of the 20 mini fablabs in kerala and the onl
 A training session was conducted for the students of the college inorder to make us familirized with the machines and to provide a hands-on workshop on the same . We got familiarized with the following machines during the training period.
 
 ### 3D PRINTER<br>
- ![3Dprinter](https://github.com/mohdrishadali/mohdrishadali.github.io/blob/master/IMG_20170826_130117.jpg "3Dprinter")<br>
+![fablab](https://github.com/mohdrishadali/mohdrishadali.github.io/blob/master/IMG_20170826_130117.jpg "fablab")<br>
  
 3D printing, also known as additive manufacturing, refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file. STL is one of the most common file types that 3D printers can read. Thus, unlike material removed from a stock in the conventional machining process, 3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file by successively adding material layer by layer.
 
