@@ -61,9 +61,23 @@ Now your Gcode file is ready to be fed to the 3D printer. Export the file to the
 
 * STEP 4
 <h4>The Final Product</h4>
-Once the printing is over, wait for the product to cooldown.Then remove it from the printer.
+Once the printing is over, wait for the product to cooldown.Then remove it from the printer.<br>
 
+### VINYL CUTTING<br>
+![vinyl](https://shaheer08.github.io/v8.jpg "vinyl")<br>
+A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program (usually Adobe Illustrator or Corel Draw) and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable.<br>
 
+### How to use vinyl cutting machine?
+
+* STEP 1
+<h4>Create your design</h4>
+Create your design or find an image and open it in the CutStudio software.Right click and select trace of the image outline. Change the size as required and press enter key.<br>
+* STEP 2
+<h4>Set the machine</h4> 
+When the design is ready to be cut,load a roll or a piece of vinyl into the machine and adjust the wheels. Next pull the lever to hold down the vinyl. Then turn the machine on and select roll if your using a roll or select piece if your using a piece.<br>
+* STEP 3
+<h4>Cutting</h4>
+When it is all set.Go into CutStudio and click "Cutting". A window will pop up and you wanna click "ok" but when you click "ok" you have to hit enter on the vinyl cutter.After cutting Use masking tape to peel out the neccesary part then stick your design onto whatever you want.
 #### Follow Me @<br>
 [![Facebook](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/facebook-64.png)](https://www.facebook.com/Rishadalit)
 [![Twitter](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/twitter-64.png)](https://twitter.com/rishadalit)
