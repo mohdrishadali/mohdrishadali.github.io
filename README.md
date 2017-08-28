@@ -74,6 +74,7 @@ A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters loo
 Create your design or find an image and open it in the CutStudio software.Right click and select trace of the image outline. Change the size as required and press enter key.<br>
 * STEP 2
 <h4>Set the machine</h4> 
+![vinyl](http://jitheeshk.github.io/vinylcutting.github.io/IMG-20170821-WA0007.jpg "vinyl")<br>
 When the design is ready to be cut,load a roll or a piece of vinyl into the machine and adjust the wheels. Next pull the lever to hold down the vinyl. Then turn the machine on and select roll if your using a roll or select piece if your using a piece.<br>
 * STEP 3
 <h4>Cutting</h4>
