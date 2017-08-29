@@ -6,7 +6,6 @@ This blog is to share my fablab experiences.<br>
 ## WHAT IS FABLAB?<br>
 ![fablab](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fab_Lab_logo.svg/269px-Fab_Lab_logo.svg.png "fablab")
 
-
 A fab lab (fabrication laboratory) is a small-scale workshop offering digital fabrication.A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make “almost anything”. This includes technology-enabled products generally perceived as limited to mass production. A FabLab is a technical prototyping platform for innovation and invention.<br>
 It was created by an American professor at MIT, Neil Gershenfield.
 
