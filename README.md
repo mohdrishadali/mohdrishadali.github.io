@@ -31,7 +31,7 @@ FabLab at MESCE, Kuttippuram is one of the 20 mini fablabs in kerala and the onl
 A training session was conducted for the students of the college inorder to make us familirized with the machines and to provide a hands-on workshop on the same . We got familiarized with the following machines during the training period.
 
 ### 3D PRINTER<br>
-![3D printer](https://github.com/mohdrishadali/mohdrishadali.github.io/blob/master/IMG_20170826_130117.jpg "3D printer")<br>
+<img src="IMG_20170826_130117.jpg" height="800" width="600"><br>
 
 3D printing, also known as additive manufacturing, refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file. STL is one of the most common file types that 3D printers can read. Thus, unlike material removed from a stock in the conventional machining process, 3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file by successively adding material layer by layer.
 
@@ -41,8 +41,7 @@ A training session was conducted for the students of the college inorder to make
 <h4>Design the prototype</h4>
 First of all you need to design the prototype using any of the appropriate softwares such as Rhinoceros, AutoCAD, Solidworks etc. to turn your 2D design to a 3D model.So the first step is to design the image using any appropriate software and then save the image in stl format.<br>
 The below image shows my design to 3D print a mobile stand.<br>
- ![3Dprinter](https://github.com/mohdrishadali/mohdrishadali.github.io/blob/master/mobilestand.jpg "3Dprinter")<br>
-
+<img src="mobilestand.jpg" height="600" width="600"><br>
 
 * STEP 2
 <h4>Convert STL file to Gcode</h4>
@@ -51,13 +50,13 @@ In Cura we can select the nozzle and material needed and specify the quality nee
 Now click “Save to file” and generate the gcode<br>
 >What is G-code?
 GCode is the generic name for a control language for CNC (or Reprap) machines. It is a way for you to tell the machine to move to various points at a desired speed, control the spindle speed, turn on and off various coolants, and all sorts of other things. It is fairly standard, and is a useful tool.<br>
- ![3Dprinter](https://github.com/mohdrishadali/mohdrishadali.github.io/blob/master/cura.png "3Dprinter")<br>
+<img src="cura.png" height="600" width="600"><br>
 
 * STEP 3
 <h4>Feed the Gcode file to the 3D printer</h4>
 Now your Gcode file is ready to be fed to the 3D printer. Export the file to the memory card that can be inserted into the 3D printer.Then select the file from the memory card.Now 3D printer starts printing your design layer by layer.<br>
- ![3Dprinter](https://github.com/mohdrishadali/mohdrishadali.github.io/blob/master/SDB2017-05-12_0001-47.JPG "3Dprinter")<br>
- ![3Dprinter](https://github.com/mohdrishadali/mohdrishadali.github.io/blob/master/IMG_20170826_130129.jpg "3Dprinter")<br>
+<img src="SDB2017-05-12_0001-47.JPG" height="600" width="600"><br>
+<img src="IMG_20170826_130129.jpg" height="600" width="600"><br>
 
 * STEP 4
 <h4>The Final Product</h4>
