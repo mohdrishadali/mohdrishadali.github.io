@@ -41,6 +41,7 @@ A training session was conducted for the students of the college inorder to make
 <h4>Design the prototype</h4>
 First of all you need to design the prototype using any of the appropriate softwares such as Rhinoceros, AutoCAD, Solidworks etc. to turn your 2D design to a 3D model.So the first step is to design the image using any appropriate software and then save the image in stl format.<br>
 The below image shows my design to 3D print a mobile stand.<br>
+
 <img src="mobilestand.jpg" height="600" width="600"><br>
 
 * STEP 2
@@ -56,8 +57,8 @@ GCode is the generic name for a control language for CNC (or Reprap) machines. I
 * STEP 3
 <h4>Feed the Gcode file to the 3D printer</h4>
 Now your Gcode file is ready to be fed to the 3D printer. Export the file to the memory card that can be inserted into the 3D printer.Then select the file from the memory card.Now 3D printer starts printing your design layer by layer.<br>
+
 <img src="SDB2017-05-12_0001-47.JPG" height="600" width="600"><br>
-<img src="IMG_20170826_130129.jpg" height="600" width="600"><br>
 
 * STEP 4
 <h4>The Final Product</h4>
@@ -65,6 +66,7 @@ Once the printing is over, wait for the product to cooldown.Then remove it from 
 
 ### VINYL CUTTING<br>
 ![vinyl](https://shaheer08.github.io/v8.jpg "vinyl")<br>
+
 A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program (usually Adobe Illustrator or Corel Draw) and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable.<br>
 
 ### How to use vinyl cutting machine?
@@ -74,8 +76,10 @@ A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters loo
 Create your design or find an image and open it in the CutStudio software.Right click and select trace of the image outline. Change the size as required and press enter key.<br>
 * STEP 2
 <h4>Set the machine</h4> 
-![vinyl](http://jitheeshk.github.io/vinylcutting.github.io/IMG-20170821-WA0007.jpg "vinyl")<br>
 When the design is ready to be cut,load a roll or a piece of vinyl into the machine and adjust the wheels. Next pull the lever to hold down the vinyl. Then turn the machine on and select roll if your using a roll or select piece if your using a piece.<br>
+
+![vinyl](http://jitheeshk.github.io/vinylcutting.github.io/IMG-20170821-WA0007.jpg "vinyl")<br>
+
 * STEP 3
 <h4>Cutting</h4>
 When it is all set.Go into CutStudio and click "Cutting". A window will pop up and you wanna click "ok" but when you click "ok" you have to hit enter on the vinyl cutter.After cutting Use masking tape to peel out the neccesary part then stick your design onto whatever you want.
