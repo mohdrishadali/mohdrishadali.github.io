@@ -50,6 +50,7 @@ In Cura we can select the nozzle and material needed and specify the quality nee
 Now click “Save to file” and generate the gcode<br>
 >What is G-code?
 GCode is the generic name for a control language for CNC (or Reprap) machines. It is a way for you to tell the machine to move to various points at a desired speed, control the spindle speed, turn on and off various coolants, and all sorts of other things. It is fairly standard, and is a useful tool.<br>
+
 <img src="cura.png" height="600" width="600"><br>
 
 * STEP 3
